@@ -1,5 +1,4 @@
 using System;
-
 public class Hello {
   public static void Main() {
     var price = int.Parse(Console.ReadLine());
