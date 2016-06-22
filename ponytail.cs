@@ -1,6 +1,6 @@
 using System;
-public class Hello{
-  public static void Main(){
+public class Hello {
+  public static void Main() {
     var line1 = Console.ReadLine();
     var line2 = Console.ReadLine();
     var line3 = Console.ReadLine();

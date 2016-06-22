@@ -1,6 +1,6 @@
 using System;
-public class Hello{
-  public static void Main(){
+public class Hello {
+  public static void Main() {
     var length = int.Parse(Console.ReadLine());
     var position = int.Parse(Console.ReadLine());
     var result = "";
