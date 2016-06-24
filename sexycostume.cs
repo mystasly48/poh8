@@ -6,7 +6,10 @@ public class Hello {
     var forward = int.Parse(array[0]);
     var backward = int.Parse(array[1]);
     var result = forward - backward;
+    if (result < 0) {
+      Console.WriteLine(0);
     } else {
+      Console.WriteLine(result);
     }
   }
 }
