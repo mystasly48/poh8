@@ -14,18 +14,18 @@
 -----
 
 #### EYE
-[Cuteコスチューム] (https://github.com/mystasly48/poh_hatsukoi/blob/master/cutecostume.cs)
-
-[Sexyコスチューム] (https://github.com/mystasly48/poh_hatsukoi/blob/master/sexycostume.cs)
-
------
-
-#### CLOTHES
 [たれ目] (https://github.com/mystasly48/poh_hatsukoi/blob/master/tareme.cs)
 
 [つり目] (https://github.com/mystasly48/poh_hatsukoi/blob/master/tsurime.cs)
 
 [めがね] (https://github.com/mystasly48/poh_hatsukoi/blob/master/glasses.cs)
+
+-----
+
+#### CLOTHES
+[Cuteコスチューム] (https://github.com/mystasly48/poh_hatsukoi/blob/master/cutecostume.cs)
+
+[Sexyコスチューム] (https://github.com/mystasly48/poh_hatsukoi/blob/master/sexycostume.cs)
 
 [浴衣] (https://github.com/mystasly48/poh_hatsukoi/blob/master/yukata.cs)
 
