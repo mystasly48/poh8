@@ -27,6 +27,7 @@
 
 [めがね] (https://github.com/mystasly48/poh_hatsukoi/blob/master/glasses.cs)
 
+[浴衣] (https://github.com/mystasly48/poh_hatsukoi/blob/master/yukata.cs)
 -----
 
 ####SPECIAL
