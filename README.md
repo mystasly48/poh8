@@ -29,6 +29,13 @@
 
 [浴衣] (https://github.com/mystasly48/poh_hatsukoi/blob/master/yukata.cs)
 
+[水着] (https://github.com/mystasly48/poh8/blob/master/mizugi.cs)
+
+[水着（for使用で失敗)] (https://github.com/mystasly48/poh8/blob/master/error_mizugi.cs)
+
+[水着（重複ループで失敗）] (https://github.com/mystasly48/poh8/blob/master/error2_mizugi.cs)
+
+
 -----
 
 #### SPECIAL
