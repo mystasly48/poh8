@@ -1,31 +1,24 @@
 ﻿using System;
+using System.Linq;
 
 public class Hello {
-  var WeakToStrong = new string[] { "3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K", "A", "2" };
-  var CardsCount = 52;
   public static void Main() {
-    var cards = Console.ReadLine().Split(' ');
-    var cardsRank = new int[CardsCount];
-    var currentRank = 0;
-    var currentCard = "";
+    string[] WeakToStrong = { "3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K", "A", "2" };
+    string[] cards = Console.ReadLine().Split(' ');
+    int[] ranks = new int[cards.Length];
+    int currentRankIndex = 0;
+    string currentCard = "2";
+    int currentRank = 1;
+    for (int cardIndex = 0, currentRankIndex = 0, currentRank = 1, currentCard = "2"; currentRank < cards.Length; cardIndex) {
+      if (currentCard == "2") {
+        ranks[currentRankIndex] = currentRank;
+        currentRank++;
+        currentRankIndex++;
+        currentCard = cards[cardIndex];
+        cards[i] = "";
+      } eles {
 
-    cardsRank[0] = currentRank;
-    currentCard = cards[0];
-
-    while (currentRank != 52) {
-      if (currentCard == "2") currentCard = "";
-      if (currentCard == "") {
-        var index = GetIndex(cards, 
-        
-
-      for (int i = 0; i < CardsCount; i++) {
-        
       }
     }
-  }
-  
-  public static int GetIndex(string[] array, string word) {
-    var index = Array.IndexOf(array, word);
-    return index;
   }
 }
